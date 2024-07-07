@@ -1,6 +1,6 @@
 import streamlit as st
 #import emoji
-import hydralit_components as hc
+#import hydralit_components as hc
 import datetime
 st.markdown('# page one 🐈')#☠ 😹 🥷 ️ ⛹️‍♂️ 🧞‍♂️  👶  ☠ 💦
 
